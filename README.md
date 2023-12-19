@@ -5,3 +5,4 @@
 - ``Java 17``
 - ``InteliJ IDEA``
 - ``Paradigma de orientação a objetos``
+- ``CLASSE DAO``
